@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me</h3>
 <ul align="left">
-  <li>👨‍🎓 Recent graduate at Ryerson University | Computer Science</li>
+  <li>👨‍🎓 Graduate at Ryerson University | Computer Science</li>
   <li>📚 Passionate about learning new technical skills </li>
   <li>✔️ Seeking and open to new opportunities</li>
 </ul>
